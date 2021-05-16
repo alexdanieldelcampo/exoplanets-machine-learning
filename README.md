@@ -22,7 +22,7 @@ The top 3 important features:
 
 **3. koi_fpflag_ss**
 <p>A KOI that is observed to have a significant secondary event, transit shape, or out-of-eclipse variability, which indicates that the transit-like event is most likely caused by an eclipsing binary. However, self-luminous, hot Jupiters with a visible secondary eclipse will also have this flag set, but with a disposition of PC.</p>
-
+---------------
 <p>The strongest indicator is is koi_fpflag_co which is the strength of the signal of the object as it transitions from the outer rim of the star to its center. The 2nd and 3rd strongest indicator are those objects which have lightiing that is not usual in exoplanets. This two are factors used as evidence that it is not an exoplanet but other stars.</p>
 
 <p>It appears that data that supports the non-existence of exoplanets can strongly improve a model's prediction that there are exoplanets.
