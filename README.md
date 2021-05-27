@@ -34,6 +34,6 @@ The top 3 important features:
   
   
 ### Contact Information:
-  
-  **E-mail:** alexdanieldelcampo@gmail.com
-  **Linkedin:** www.linkedin.com/in/alexander-del-campo
+
+**E-mail:** alexdanieldelcampo@gmail.com <br />
+**Linkedin:** www.linkedin.com/in/alexander-del-campo
