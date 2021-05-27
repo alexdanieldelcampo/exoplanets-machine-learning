@@ -30,3 +30,10 @@ The top 3 important features:
 ## Features of Importance (descending):
 
 ![feature_importance](Images/feature_importance.png)
+  
+  
+  
+### Contact Information:
+  
+  **E-mail:** alexdanieldelcampo@gmail.com
+  **Linkedin:** www.linkedin.com/in/alexander-del-campo
